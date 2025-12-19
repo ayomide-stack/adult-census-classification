@@ -106,11 +106,6 @@ Any real-world use would require fairness checks, transparency, and human oversi
 
 
 
-## Repository Notes
-The Jupyter notebook outputs may not render fully on GitHub due to size limitations.
-For the best experience, I recommend downloading the notebook and running it locally.
-
-
 
 **Ayomide Ogunmakinwa**  
 MSc Data Science  
