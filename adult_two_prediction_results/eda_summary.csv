@@ -1,0 +1,16 @@
+Feature,Data Type,Missing Values,Unique Values
+occupation,category,2809,14
+workclass,category,2799,8
+native-country,category,857,41
+fnlwgt,int64,0,28523
+education,category,0,16
+education-num,int64,0,16
+age,int64,0,74
+marital-status,category,0,7
+relationship,category,0,6
+sex,category,0,2
+race,category,0,5
+capital-gain,int64,0,123
+capital-loss,int64,0,99
+hours-per-week,int64,0,96
+class,category,0,2

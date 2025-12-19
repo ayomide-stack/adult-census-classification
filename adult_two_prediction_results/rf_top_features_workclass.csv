@@ -1,0 +1,16 @@
+feature,importance
+age,0.329524266442012
+hours-per-week,0.1862705481946355
+education-num,0.1364118969611509
+capital-gain,0.038189712507450554
+capital-loss,0.024939865237345985
+occupation_Protective-serv,0.02050594243021364
+occupation_Farming-fishing,0.017764317859202922
+occupation_Prof-specialty,0.016821414842337207
+race_White,0.010726187755790829
+occupation_Exec-managerial,0.010345373958434972
+relationship_Not-in-family,0.009697135591455025
+native-country_United-States,0.009544153997214217
+race_Black,0.009147889315042398
+marital-status_Never-married,0.00889241720873544
+occupation_Adm-clerical,0.00846310813040579
